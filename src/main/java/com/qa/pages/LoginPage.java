@@ -15,4 +15,9 @@ public class LoginPage
 		System.out.println("login Set");
 	}
 	
+	pulic void changedGit()
+	{
+		System.out.println("Changed from git");
+	}
+	
 }
